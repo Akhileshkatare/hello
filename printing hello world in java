@@ -1,0 +1,8 @@
+class hello{
+ public satic void main(Stirng args[]){
+    String str="hello";
+    
+ System.out.prointln(str);
+ }
+
+}
